@@ -2,7 +2,7 @@
 # Name:Sri Yogavarshini R
 # Regno:212223060270
 
-### AIM:
+### Aim:
 To convert an analog signal into a digital form by sampling, quantizing, and encoding it into binary format. This process ensures accurate transmission and storage of signals in digital systems. PCM enhances signal quality and error detection, making it crucial in audio, telecommunications, and multimedia applications.
 
 ### Components Required:
