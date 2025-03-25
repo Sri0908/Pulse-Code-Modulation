@@ -56,4 +56,6 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/b7cec6f3-f70f-4063-b94a-064863652f6d)
 
 ### Result:
-Pulse Code Modulation (PCM) converts analog signals into digital form by sampling and quantizing the signal. The result is a series of pulses that represent the digitized version of the original signal, widely used in audio and telecommunications.
+
+Pulse Code Modulation (PCM) converts analog signals into digital form by sampling and quantizing the signal. The result is a series of pulses that represent the 
+digitized version of the original signal, widely used in audio and telecommunications.
